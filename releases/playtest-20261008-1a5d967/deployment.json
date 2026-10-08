@@ -1,0 +1,186 @@
+{
+  "schema": 1,
+  "packaging": "static-chunks-v1",
+  "release": "playtest-20261008-1a5d967",
+  "source_sha": "1a5d967ca81d285aecf07be830811aff4fbef48f",
+  "engine": "4.7.2.stable.official.ed1daf0bf",
+  "validation_run": null,
+  "published_at": null,
+  "pack": {
+    "path": "index.pck",
+    "bytes": 99678296,
+    "sha256": "42e92f823748375334af98e9db8be358e70eed881747d8c2323e72f8e0e8ad15",
+    "chunks": [
+      {
+        "path": "pck/0000-845c20fcda2872c575afe8828f9c457c68d8f2dfa0f9948c39f02fc551c9d9e6.bin",
+        "offset": 0,
+        "bytes": 8388608,
+        "sha256": "845c20fcda2872c575afe8828f9c457c68d8f2dfa0f9948c39f02fc551c9d9e6"
+      },
+      {
+        "path": "pck/0001-a502e87b113b1e99d597d04643467f0d82a92852d44496e0191b23135c443170.bin",
+        "offset": 8388608,
+        "bytes": 8388608,
+        "sha256": "a502e87b113b1e99d597d04643467f0d82a92852d44496e0191b23135c443170"
+      },
+      {
+        "path": "pck/0002-1ac3b3d60bcdb9701f4f8d8e82f4b9d442094e326b9d992865b991c8880a91f4.bin",
+        "offset": 16777216,
+        "bytes": 8388608,
+        "sha256": "1ac3b3d60bcdb9701f4f8d8e82f4b9d442094e326b9d992865b991c8880a91f4"
+      },
+      {
+        "path": "pck/0003-a29f5ce75fbb0076411189ef9313aa4ca54a977d209fdcb13c77a8109f53950f.bin",
+        "offset": 25165824,
+        "bytes": 8388608,
+        "sha256": "a29f5ce75fbb0076411189ef9313aa4ca54a977d209fdcb13c77a8109f53950f"
+      },
+      {
+        "path": "pck/0004-ae43a6c69527e7727952969e1a75b195ef4983793a9d77b38935c38e60056646.bin",
+        "offset": 33554432,
+        "bytes": 8388608,
+        "sha256": "ae43a6c69527e7727952969e1a75b195ef4983793a9d77b38935c38e60056646"
+      },
+      {
+        "path": "pck/0005-abdaa71e0eeed60a72c4061a69af3099f1b0ad5688cda83090e2095ae35c1b96.bin",
+        "offset": 41943040,
+        "bytes": 8388608,
+        "sha256": "abdaa71e0eeed60a72c4061a69af3099f1b0ad5688cda83090e2095ae35c1b96"
+      },
+      {
+        "path": "pck/0006-83418f1e02a1966368833bc6df7cf7ef159943abf5dad990c1b07ff31c2bc3f5.bin",
+        "offset": 50331648,
+        "bytes": 8388608,
+        "sha256": "83418f1e02a1966368833bc6df7cf7ef159943abf5dad990c1b07ff31c2bc3f5"
+      },
+      {
+        "path": "pck/0007-1d26b9c2bbdcc5a2bd5042a139da99908dd54edd8c94cdc36aa37c76f8b54e44.bin",
+        "offset": 58720256,
+        "bytes": 8388608,
+        "sha256": "1d26b9c2bbdcc5a2bd5042a139da99908dd54edd8c94cdc36aa37c76f8b54e44"
+      },
+      {
+        "path": "pck/0008-a1a9b16b161700f348336572d85a7671ebde4994153c4746d37efc2468c40de0.bin",
+        "offset": 67108864,
+        "bytes": 8388608,
+        "sha256": "a1a9b16b161700f348336572d85a7671ebde4994153c4746d37efc2468c40de0"
+      },
+      {
+        "path": "pck/0009-739adb0ac60500e00640b7b6bf2145e360da311bff7c715bd8b3233d5194a03a.bin",
+        "offset": 75497472,
+        "bytes": 8388608,
+        "sha256": "739adb0ac60500e00640b7b6bf2145e360da311bff7c715bd8b3233d5194a03a"
+      },
+      {
+        "path": "pck/0010-4986d3a41a1ae6341796c6f065a3d56d8e7e96a35ae87ae84557573abd0fe6af.bin",
+        "offset": 83886080,
+        "bytes": 8388608,
+        "sha256": "4986d3a41a1ae6341796c6f065a3d56d8e7e96a35ae87ae84557573abd0fe6af"
+      },
+      {
+        "path": "pck/0011-8cadee6a75ee3d12798285757b5230c2f5dbc545e10dfecb15b8a66a907836f3.bin",
+        "offset": 92274688,
+        "bytes": 7403608,
+        "sha256": "8cadee6a75ee3d12798285757b5230c2f5dbc545e10dfecb15b8a66a907836f3"
+      }
+    ]
+  },
+  "files": {
+    "build-sha.txt": {
+      "bytes": 41,
+      "sha256": "0b2f44d13e8505eab623d94c0362182d7cef80f8602efcda3f078fd216143ba5"
+    },
+    "chunk-loader.js": {
+      "bytes": 8799,
+      "sha256": "a5bcd74193188f34ee975d60b4159ee4de22e2774fbc20823232d2d7839add7e"
+    },
+    "index.apple-touch-icon.png": {
+      "bytes": 1085,
+      "sha256": "048af062d1269c25b274333ea1cf7869b8dd2caf0afa68a0fd106313b7c44447"
+    },
+    "index.audio.position.worklet.js": {
+      "bytes": 2973,
+      "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8"
+    },
+    "index.audio.worklet.js": {
+      "bytes": 7298,
+      "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3"
+    },
+    "index.html": {
+      "bytes": 131793,
+      "sha256": "aeadb6f972e6522355bb5e6eab43a657b67420475e6a1921732c1c16f5e8ed31"
+    },
+    "index.icon.png": {
+      "bytes": 932,
+      "sha256": "8efad2d23cabddc02b83f483887cf74635346566af20b678307243ed7cbc0e4c"
+    },
+    "index.js": {
+      "bytes": 315645,
+      "sha256": "ffc3898b59fba6f5af0c02f76e5ee526cc061e65c7d2d6f4f98186876cea15c4"
+    },
+    "index.png": {
+      "bytes": 21443,
+      "sha256": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
+    },
+    "index.wasm": {
+      "bytes": 37902138,
+      "sha256": "11ea19645368f8e73cf337b59cfd7ceeb4ebb51f7a3bbf77d1a5c3ddfedbc522"
+    },
+    "pack-manifest.json": {
+      "bytes": 3363,
+      "sha256": "97b5cdb4dca43afc68a722882b2f6bb710a5ab75c46bcba954f8a85aa0977d4e"
+    },
+    "pck/0000-845c20fcda2872c575afe8828f9c457c68d8f2dfa0f9948c39f02fc551c9d9e6.bin": {
+      "bytes": 8388608,
+      "sha256": "845c20fcda2872c575afe8828f9c457c68d8f2dfa0f9948c39f02fc551c9d9e6"
+    },
+    "pck/0001-a502e87b113b1e99d597d04643467f0d82a92852d44496e0191b23135c443170.bin": {
+      "bytes": 8388608,
+      "sha256": "a502e87b113b1e99d597d04643467f0d82a92852d44496e0191b23135c443170"
+    },
+    "pck/0002-1ac3b3d60bcdb9701f4f8d8e82f4b9d442094e326b9d992865b991c8880a91f4.bin": {
+      "bytes": 8388608,
+      "sha256": "1ac3b3d60bcdb9701f4f8d8e82f4b9d442094e326b9d992865b991c8880a91f4"
+    },
+    "pck/0003-a29f5ce75fbb0076411189ef9313aa4ca54a977d209fdcb13c77a8109f53950f.bin": {
+      "bytes": 8388608,
+      "sha256": "a29f5ce75fbb0076411189ef9313aa4ca54a977d209fdcb13c77a8109f53950f"
+    },
+    "pck/0004-ae43a6c69527e7727952969e1a75b195ef4983793a9d77b38935c38e60056646.bin": {
+      "bytes": 8388608,
+      "sha256": "ae43a6c69527e7727952969e1a75b195ef4983793a9d77b38935c38e60056646"
+    },
+    "pck/0005-abdaa71e0eeed60a72c4061a69af3099f1b0ad5688cda83090e2095ae35c1b96.bin": {
+      "bytes": 8388608,
+      "sha256": "abdaa71e0eeed60a72c4061a69af3099f1b0ad5688cda83090e2095ae35c1b96"
+    },
+    "pck/0006-83418f1e02a1966368833bc6df7cf7ef159943abf5dad990c1b07ff31c2bc3f5.bin": {
+      "bytes": 8388608,
+      "sha256": "83418f1e02a1966368833bc6df7cf7ef159943abf5dad990c1b07ff31c2bc3f5"
+    },
+    "pck/0007-1d26b9c2bbdcc5a2bd5042a139da99908dd54edd8c94cdc36aa37c76f8b54e44.bin": {
+      "bytes": 8388608,
+      "sha256": "1d26b9c2bbdcc5a2bd5042a139da99908dd54edd8c94cdc36aa37c76f8b54e44"
+    },
+    "pck/0008-a1a9b16b161700f348336572d85a7671ebde4994153c4746d37efc2468c40de0.bin": {
+      "bytes": 8388608,
+      "sha256": "a1a9b16b161700f348336572d85a7671ebde4994153c4746d37efc2468c40de0"
+    },
+    "pck/0009-739adb0ac60500e00640b7b6bf2145e360da311bff7c715bd8b3233d5194a03a.bin": {
+      "bytes": 8388608,
+      "sha256": "739adb0ac60500e00640b7b6bf2145e360da311bff7c715bd8b3233d5194a03a"
+    },
+    "pck/0010-4986d3a41a1ae6341796c6f065a3d56d8e7e96a35ae87ae84557573abd0fe6af.bin": {
+      "bytes": 8388608,
+      "sha256": "4986d3a41a1ae6341796c6f065a3d56d8e7e96a35ae87ae84557573abd0fe6af"
+    },
+    "pck/0011-8cadee6a75ee3d12798285757b5230c2f5dbc545e10dfecb15b8a66a907836f3.bin": {
+      "bytes": 7403608,
+      "sha256": "8cadee6a75ee3d12798285757b5230c2f5dbc545e10dfecb15b8a66a907836f3"
+    },
+    "version.txt": {
+      "bytes": 67,
+      "sha256": "ffab3ccbfbdfaba980ef5ff6a8f1582313c605f5ac4ee3fd48f5746b918b8daa"
+    }
+  }
+}

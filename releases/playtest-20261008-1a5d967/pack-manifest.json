@@ -1,0 +1,85 @@
+{
+  "schema": 1,
+  "release": "playtest-20261008-1a5d967",
+  "source_sha": "1a5d967ca81d285aecf07be830811aff4fbef48f",
+  "engine": "4.7.2.stable.official.ed1daf0bf",
+  "pack": {
+    "path": "index.pck",
+    "bytes": 99678296,
+    "sha256": "42e92f823748375334af98e9db8be358e70eed881747d8c2323e72f8e0e8ad15",
+    "chunks": [
+      {
+        "path": "pck/0000-845c20fcda2872c575afe8828f9c457c68d8f2dfa0f9948c39f02fc551c9d9e6.bin",
+        "offset": 0,
+        "bytes": 8388608,
+        "sha256": "845c20fcda2872c575afe8828f9c457c68d8f2dfa0f9948c39f02fc551c9d9e6"
+      },
+      {
+        "path": "pck/0001-a502e87b113b1e99d597d04643467f0d82a92852d44496e0191b23135c443170.bin",
+        "offset": 8388608,
+        "bytes": 8388608,
+        "sha256": "a502e87b113b1e99d597d04643467f0d82a92852d44496e0191b23135c443170"
+      },
+      {
+        "path": "pck/0002-1ac3b3d60bcdb9701f4f8d8e82f4b9d442094e326b9d992865b991c8880a91f4.bin",
+        "offset": 16777216,
+        "bytes": 8388608,
+        "sha256": "1ac3b3d60bcdb9701f4f8d8e82f4b9d442094e326b9d992865b991c8880a91f4"
+      },
+      {
+        "path": "pck/0003-a29f5ce75fbb0076411189ef9313aa4ca54a977d209fdcb13c77a8109f53950f.bin",
+        "offset": 25165824,
+        "bytes": 8388608,
+        "sha256": "a29f5ce75fbb0076411189ef9313aa4ca54a977d209fdcb13c77a8109f53950f"
+      },
+      {
+        "path": "pck/0004-ae43a6c69527e7727952969e1a75b195ef4983793a9d77b38935c38e60056646.bin",
+        "offset": 33554432,
+        "bytes": 8388608,
+        "sha256": "ae43a6c69527e7727952969e1a75b195ef4983793a9d77b38935c38e60056646"
+      },
+      {
+        "path": "pck/0005-abdaa71e0eeed60a72c4061a69af3099f1b0ad5688cda83090e2095ae35c1b96.bin",
+        "offset": 41943040,
+        "bytes": 8388608,
+        "sha256": "abdaa71e0eeed60a72c4061a69af3099f1b0ad5688cda83090e2095ae35c1b96"
+      },
+      {
+        "path": "pck/0006-83418f1e02a1966368833bc6df7cf7ef159943abf5dad990c1b07ff31c2bc3f5.bin",
+        "offset": 50331648,
+        "bytes": 8388608,
+        "sha256": "83418f1e02a1966368833bc6df7cf7ef159943abf5dad990c1b07ff31c2bc3f5"
+      },
+      {
+        "path": "pck/0007-1d26b9c2bbdcc5a2bd5042a139da99908dd54edd8c94cdc36aa37c76f8b54e44.bin",
+        "offset": 58720256,
+        "bytes": 8388608,
+        "sha256": "1d26b9c2bbdcc5a2bd5042a139da99908dd54edd8c94cdc36aa37c76f8b54e44"
+      },
+      {
+        "path": "pck/0008-a1a9b16b161700f348336572d85a7671ebde4994153c4746d37efc2468c40de0.bin",
+        "offset": 67108864,
+        "bytes": 8388608,
+        "sha256": "a1a9b16b161700f348336572d85a7671ebde4994153c4746d37efc2468c40de0"
+      },
+      {
+        "path": "pck/0009-739adb0ac60500e00640b7b6bf2145e360da311bff7c715bd8b3233d5194a03a.bin",
+        "offset": 75497472,
+        "bytes": 8388608,
+        "sha256": "739adb0ac60500e00640b7b6bf2145e360da311bff7c715bd8b3233d5194a03a"
+      },
+      {
+        "path": "pck/0010-4986d3a41a1ae6341796c6f065a3d56d8e7e96a35ae87ae84557573abd0fe6af.bin",
+        "offset": 83886080,
+        "bytes": 8388608,
+        "sha256": "4986d3a41a1ae6341796c6f065a3d56d8e7e96a35ae87ae84557573abd0fe6af"
+      },
+      {
+        "path": "pck/0011-8cadee6a75ee3d12798285757b5230c2f5dbc545e10dfecb15b8a66a907836f3.bin",
+        "offset": 92274688,
+        "bytes": 7403608,
+        "sha256": "8cadee6a75ee3d12798285757b5230c2f5dbc545e10dfecb15b8a66a907836f3"
+      }
+    ]
+  }
+}
