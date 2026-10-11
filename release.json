@@ -1,7 +1,0 @@
-{
-  "schema": 1,
-  "packaging": "static-chunks-v1",
-  "release": "playtest-20261008-841ec6b",
-  "source_sha": "841ec6b8dd7ac6150d81d21a0df95f7ea68602f3",
-  "release_manifest_sha256": "775dea768fc6e1d049a8f9baed4c8147caa8c725795fc366cb2263206252a41c"
-}

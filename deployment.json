@@ -1,9 +1,24 @@
 {
-  "schema": 1,
-  "packaging": "static-chunks-v1",
-  "release": "playtest-20261008-841ec6b",
-  "source_sha": "841ec6b8dd7ac6150d81d21a0df95f7ea68602f3",
-  "release_manifest_sha256": "775dea768fc6e1d049a8f9baed4c8147caa8c725795fc366cb2263206252a41c",
-  "validation_run": null,
-  "published_at": null
+  "source_sha": "f671c0745bae514d5003d090b1f536f2515854a2",
+  "source_branch": "main",
+  "validation_run": 38096693611,
+  "validation_url": "https://github.com/doublehidenblade/tokyo-drift-3d/actions/runs/38096693611",
+  "smoke_conclusion": "success",
+  "forced": true,
+  "published_at": "2026-10-11T00:09:22.075Z",
+  "export_commit": "f671c0745bae514d5003d090b1f536f2515854a2",
+  "shuto": true,
+  "sha256": {
+    "build-sha.txt": "81f083f5cc3831a999ad9926b19590efd8f7e6f77ecfd6af52a8a5846e02c582",
+    "index.audio.worklet.js": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3",
+    "version.txt": "0f454d390d7139b8e6a483279c93b55af95cfd4b3555e0274e5b361d6e644e14",
+    "index.audio.position.worklet.js": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8",
+    "index.icon.png": "8efad2d23cabddc02b83f483887cf74635346566af20b678307243ed7cbc0e4c",
+    "index.apple-touch-icon.png": "048af062d1269c25b274333ea1cf7869b8dd2caf0afa68a0fd106313b7c44447",
+    "index.wasm": "11ea19645368f8e73cf337b59cfd7ceeb4ebb51f7a3bbf77d1a5c3ddfedbc522",
+    "index.html": "fa54b59e274dc149fc6997daf5b6e5b4c2eff1515eb41abe0b005071bafd45ca",
+    "index.js": "ffc3898b59fba6f5af0c02f76e5ee526cc061e65c7d2d6f4f98186876cea15c4",
+    "index.pck": "3f6ab0df6f4c470e7a4e8ba4b72ba68902988c8b9b56d252965587ac79b6553e",
+    "index.png": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
+  }
 }
