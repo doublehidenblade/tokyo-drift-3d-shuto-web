@@ -1,24 +1,24 @@
 {
-  "source_sha": "132edfdc4bbd09236300771aeba0c117a6e42d0b",
+  "source_sha": "1249dc96eccf48980dbb6512859f8a3487121afb",
   "source_branch": "main",
-  "validation_run": 40012082906,
-  "validation_url": "https://github.com/doublehidenblade/tokyo-drift-3d/actions/runs/40012082906",
-  "smoke_conclusion": "success",
+  "validation_run": 41084319798,
+  "validation_url": "https://github.com/doublehidenblade/tokyo-drift-3d/actions/runs/41084319798",
+  "smoke_conclusion": null,
   "forced": true,
-  "published_at": "2026-10-23T19:48:37.870Z",
-  "export_commit": "132edfdc4bbd09236300771aeba0c117a6e42d0b",
+  "published_at": "2026-10-30T16:08:50.281Z",
+  "export_commit": "1249dc96eccf48980dbb6512859f8a3487121afb",
   "shuto": true,
   "sha256": {
-    "build-sha.txt": "f6804f821f4fae9d00685066f1afb981ef4b7cf2c3fbf5f09b1682d8de322e33",
-    "index.audio.worklet.js": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3",
-    "version.txt": "8eecd60b7524b110f5dfa8de9efdda47c0851cddd66b4ef1c19891aa603b3c37",
-    "index.audio.position.worklet.js": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8",
-    "index.icon.png": "8efad2d23cabddc02b83f483887cf74635346566af20b678307243ed7cbc0e4c",
+    "version.txt": "a8136b577a4ad405e7a4b94d6ef2cd6e6cf0b5f644e90a7e39b15cba7601a2f1",
     "index.apple-touch-icon.png": "048af062d1269c25b274333ea1cf7869b8dd2caf0afa68a0fd106313b7c44447",
     "index.wasm": "11ea19645368f8e73cf337b59cfd7ceeb4ebb51f7a3bbf77d1a5c3ddfedbc522",
-    "index.html": "c9e60352944629116bb1b9140915182517f9c6b2725196cb1d23c7029ef03948",
+    "index.png": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e",
+    "index.audio.position.worklet.js": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8",
+    "build-sha.txt": "3940c98a86153e67ba486a0330cf22a083432712d37a4fed732acc30c14f0545",
+    "index.icon.png": "8efad2d23cabddc02b83f483887cf74635346566af20b678307243ed7cbc0e4c",
     "index.js": "ffc3898b59fba6f5af0c02f76e5ee526cc061e65c7d2d6f4f98186876cea15c4",
-    "index.pck": "896800ae03ca38ebcfab9cb24ec61bb0ce1ed6f622ae3d40d8cefcc5885ead8b",
-    "index.png": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
+    "index.pck": "f688988d4adae08ebe1fc78d575aad50aef7622616d5e0efe4580ccac98e64c7",
+    "index.audio.worklet.js": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3",
+    "index.html": "1b2d2019bd29cc0f32e72dcd5dc93a2f7f72cd5015a6c14fe0f9f51fd8a03797"
   }
 }
