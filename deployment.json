@@ -1,24 +1,24 @@
 {
-  "source_sha": "1249dc96eccf48980dbb6512859f8a3487121afb",
+  "source_sha": "2ad6af032f06e19c5b11e9093d3b3807bf28e5b3",
   "source_branch": "main",
-  "validation_run": 41084319798,
-  "validation_url": "https://github.com/doublehidenblade/tokyo-drift-3d/actions/runs/41084319798",
-  "smoke_conclusion": null,
+  "validation_run": 42295015934,
+  "validation_url": "https://github.com/doublehidenblade/tokyo-drift-3d/actions/runs/42295015934",
+  "smoke_conclusion": "cancelled",
   "forced": true,
-  "published_at": "2026-10-30T16:08:50.281Z",
-  "export_commit": "1249dc96eccf48980dbb6512859f8a3487121afb",
+  "published_at": "2026-11-06T21:44:38.043Z",
+  "export_commit": "2ad6af032f06e19c5b11e9093d3b3807bf28e5b3",
   "shuto": true,
   "sha256": {
-    "version.txt": "a8136b577a4ad405e7a4b94d6ef2cd6e6cf0b5f644e90a7e39b15cba7601a2f1",
-    "index.apple-touch-icon.png": "048af062d1269c25b274333ea1cf7869b8dd2caf0afa68a0fd106313b7c44447",
-    "index.wasm": "11ea19645368f8e73cf337b59cfd7ceeb4ebb51f7a3bbf77d1a5c3ddfedbc522",
-    "index.png": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e",
     "index.audio.position.worklet.js": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8",
-    "build-sha.txt": "3940c98a86153e67ba486a0330cf22a083432712d37a4fed732acc30c14f0545",
     "index.icon.png": "8efad2d23cabddc02b83f483887cf74635346566af20b678307243ed7cbc0e4c",
+    "index.html": "ed5466e08211c0462884a9e0a9f633140b21e39dcb63dd6d1a2849b81d03a78f",
+    "index.wasm": "11ea19645368f8e73cf337b59cfd7ceeb4ebb51f7a3bbf77d1a5c3ddfedbc522",
     "index.js": "ffc3898b59fba6f5af0c02f76e5ee526cc061e65c7d2d6f4f98186876cea15c4",
-    "index.pck": "f688988d4adae08ebe1fc78d575aad50aef7622616d5e0efe4580ccac98e64c7",
+    "version.txt": "32fb7b8e8ecdc1401d70dd42f2908f9ec186a48d165cfe189dab6caeca41be56",
     "index.audio.worklet.js": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3",
-    "index.html": "1b2d2019bd29cc0f32e72dcd5dc93a2f7f72cd5015a6c14fe0f9f51fd8a03797"
+    "index.png": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e",
+    "index.apple-touch-icon.png": "048af062d1269c25b274333ea1cf7869b8dd2caf0afa68a0fd106313b7c44447",
+    "build-sha.txt": "706cc30ba04bd6de6819741b14a3ca4e4ec75d9248c5db8e6aae235229db7dcc",
+    "index.pck": "71a6e6a832382703423de66d185a638fb94d69f629160563a642ea3b3de8dfbf"
   }
 }
