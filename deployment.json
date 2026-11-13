@@ -1,24 +1,24 @@
 {
-  "source_sha": "2ad6af032f06e19c5b11e9093d3b3807bf28e5b3",
+  "source_sha": "1e1881c8f4b8a913e7549986aa8fa6daec036304",
   "source_branch": "main",
-  "validation_run": 42295015934,
-  "validation_url": "https://github.com/doublehidenblade/tokyo-drift-3d/actions/runs/42295015934",
-  "smoke_conclusion": "cancelled",
+  "validation_run": 43508726364,
+  "validation_url": "https://github.com/doublehidenblade/tokyo-drift-3d/actions/runs/43508726364",
+  "smoke_conclusion": "success",
   "forced": true,
-  "published_at": "2026-11-06T21:44:38.043Z",
-  "export_commit": "2ad6af032f06e19c5b11e9093d3b3807bf28e5b3",
+  "published_at": "2026-11-13T21:31:47.669Z",
+  "export_commit": "1e1881c8f4b8a913e7549986aa8fa6daec036304",
   "shuto": true,
   "sha256": {
-    "index.audio.position.worklet.js": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8",
-    "index.icon.png": "8efad2d23cabddc02b83f483887cf74635346566af20b678307243ed7cbc0e4c",
-    "index.html": "ed5466e08211c0462884a9e0a9f633140b21e39dcb63dd6d1a2849b81d03a78f",
-    "index.wasm": "11ea19645368f8e73cf337b59cfd7ceeb4ebb51f7a3bbf77d1a5c3ddfedbc522",
+    "index.html": "152ef9b1cf71035e2d027d11d590495b094a550d1b7098af112041461b2ec0b5",
+    "version.txt": "2501281bb78364cf7f1be23aac7766d10118cfe4b913e8dd310951f51f59044c",
+    "build-sha.txt": "8d672a799bf7d0cafe104fd0ec6b06fd45ee0b640db9daf3b43359584d330856",
     "index.js": "ffc3898b59fba6f5af0c02f76e5ee526cc061e65c7d2d6f4f98186876cea15c4",
-    "version.txt": "32fb7b8e8ecdc1401d70dd42f2908f9ec186a48d165cfe189dab6caeca41be56",
     "index.audio.worklet.js": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3",
-    "index.png": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e",
+    "index.icon.png": "8efad2d23cabddc02b83f483887cf74635346566af20b678307243ed7cbc0e4c",
     "index.apple-touch-icon.png": "048af062d1269c25b274333ea1cf7869b8dd2caf0afa68a0fd106313b7c44447",
-    "build-sha.txt": "706cc30ba04bd6de6819741b14a3ca4e4ec75d9248c5db8e6aae235229db7dcc",
-    "index.pck": "71a6e6a832382703423de66d185a638fb94d69f629160563a642ea3b3de8dfbf"
+    "index.png": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e",
+    "index.audio.position.worklet.js": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8",
+    "index.wasm": "11ea19645368f8e73cf337b59cfd7ceeb4ebb51f7a3bbf77d1a5c3ddfedbc522",
+    "index.pck": "81f89c38efa031301195a88ecd1db5ff8fa03bc99a0778e2a4684a80cdd54cc2"
   }
 }
